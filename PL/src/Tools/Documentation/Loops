@@ -1,0 +1,28 @@
+// For Loop
+var str = "Hello world!";
+
+var i;
+for(i = 0; i <= 4; i = i + 1)
+{
+    print str;
+}
+
+// Loop and edit string
+var word = "FCIS MANSOURA UNIVERSITY";
+
+for(var i = 0; i <= 20; i = i + 1)
+{
+    print word - i;
+}
+
+
+//****************************************
+
+//While Loop
+var flag = 0;
+while(flag == 0)
+{
+    print "False";
+    flag = flag + 1;
+}
+print "True";

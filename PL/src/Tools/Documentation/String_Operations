@@ -1,0 +1,14 @@
+
+// Concatenate two strings
+print "FC" + "IS";      //FCIS
+
+// Add number to string and vice versa
+print "CS Department " + 3;     //CS Department 3
+print 3 + " CS Department";     //3 CS Department
+
+// Edit string length
+print "Software Engineeringggg" - 3;        //Software Engineering
+print 3 - "sssSoftware Engineering";        //Software Engineering
+
+// String repetition
+print "Hello " * 5;      //Hello Hello Hello Hello Hello
